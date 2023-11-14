@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## Personal additions
+# Data
+*.skeleton 
+*.npy
+*.pkl
+*.zip
+# Logging?
+*.local
