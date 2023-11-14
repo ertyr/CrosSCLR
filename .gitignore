@@ -136,3 +136,5 @@ dmypy.json
 *.zip
 # Logging?
 *.local
+# Github data
+*.DS_Store
